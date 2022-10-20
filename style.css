@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: slateblue;
+    color: white;
+    font-family: cursive;
+    height: 100vh;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-transform: uppercase;
+    overflow: hidden;
+}
+.span_container{
+    background: #5F51B8;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    position: relative;
+    padding: 20px;
+}
+h3{
+    letter-spacing: 3px;
+    font-size: 1.5em;
+}
+h1{
+    font-size: 80px;
+    margin: 25px;
+}
+
+.wrap{
+    font-size: 40px;
+    margin-inline: 25px;
+    display: flex;
+    flex-direction: column;
+}
+
+.span{
+    font-size: 15px;
+    letter-spacing: 1px;
+ 
+  }
